@@ -1,0 +1,21 @@
+{
+  "name": "Kingdom Rush - Tower Defense",
+  "short_name": "Kingdom Rush",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#1a1a24",
+  "theme_color": "#1a1a24",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/color/192/medieval-castle.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://img.icons8.com/color/512/medieval-castle.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
